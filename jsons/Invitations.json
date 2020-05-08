@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "From": "Roberta Caroline Santiago Maimone",
+        "To": "João Victor Palmeira",
+        "Sent At": "\"4/1/20",
+        "Message": " 8:23 AM\"",
+        "Direction": ""
+    },
+    {
+        "id": 2,
+        "From": "André Luiz Ramos Ferreira",
+        "To": "João Victor Palmeira",
+        "Sent At": "\"1/7/20",
+        "Message": " 5:12 AM\"",
+        "Direction": ""
+    },
+    {
+        "id": 3,
+        "From": "Rogério Vieira",
+        "To": "João Victor Palmeira",
+        "Sent At": "\"1/7/20",
+        "Message": " 3:03 AM\"",
+        "Direction": ""
+    }
+]
